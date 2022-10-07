@@ -1,0 +1,28 @@
+{
+    "tasks":[
+        {
+            "id": 1,
+            "text": "Cagar fuerte",
+            "day": "23 de Agosto 2022",
+            "reminder": true
+        },
+        {
+            "id": 2,
+            "text": "Viajar",
+            "day": "23 de Agosto 2022",
+            "reminder": true
+        },
+        {
+            "id": 3,
+            "text": "Volar a China",
+            "day": "23 de Agosto 2022",
+            "reminder": false
+        },
+        {
+            "id": 4,
+            "text": "Leer",
+            "day": "23 de Agosto 2022",
+            "reminder": false
+        }  
+    ]
+}
