@@ -1,28 +1,28 @@
 {
-    "tasks":[
-        {
-            "id": 1,
-            "text": "Cagar fuerte",
-            "day": "23 de Agosto 2022",
-            "reminder": true
-        },
-        {
-            "id": 2,
-            "text": "Viajar",
-            "day": "23 de Agosto 2022",
-            "reminder": true
-        },
-        {
-            "id": 3,
-            "text": "Volar a China",
-            "day": "23 de Agosto 2022",
-            "reminder": false
-        },
-        {
-            "id": 4,
-            "text": "Leer",
-            "day": "23 de Agosto 2022",
-            "reminder": false
-        }  
-    ]
+  "tasks": [
+    {
+      "text": "Viajar",
+      "day": "22 de Agosto",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "text": "Visitar",
+      "day": "3 de abril",
+      "reminder": true,
+      "id": 2
+    },
+    {
+      "text": "Comrpar Torta",
+      "day": "Hoy",
+      "reminder": true,
+      "id": 3
+    },
+    {
+      "text": "Comprar",
+      "day": "23 agosto",
+      "reminder": true,
+      "id": 4
+    }
+  ]
 }
